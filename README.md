@@ -13,7 +13,7 @@ The Text to Speech Converter Web Page is a simple web application that allows us
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -45,3 +45,21 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/Rakesh3117/TextToSpeechConverter
+   '''
+### Usage
+
+Open the web page in your web browser by following the installation instructions above.
+
+Enter or paste the text you want to convert into the input field.
+
+Customize the speech settings, including language, voice, speed, and pitch, according to your preferences.
+
+Click the "Convert" button to generate the speech.
+
+Listen to the generated speech, and if you're satisfied, you can download it as an audio file by clicking the "Download" button.
+
+Enjoy using the Text to Speech Converter Web Page for all your text-to-speech needs!
+
+### Contributing
+
+We welcome contributions from the community to improve and enhance this project. If you would like to contribute, please follow our Contribution Guidelines.
