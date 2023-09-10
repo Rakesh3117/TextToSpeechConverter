@@ -48,17 +48,17 @@ Before you begin, ensure you have met the following requirements:
    '''
 ### Usage
 
-Open the web page in your web browser by following the installation instructions above.
+1.Open the web page in your web browser by following the installation instructions above.
 
-Enter or paste the text you want to convert into the input field.
+2.Enter or paste the text you want to convert into the input field.
 
-Customize the speech settings, including language, voice, speed, and pitch, according to your preferences.
+3.Customize the speech settings, including language, voice, speed, and pitch, according to your preferences.
 
-Click the "Convert" button to generate the speech.
+4.Click the "Convert" button to generate the speech.
 
-Listen to the generated speech, and if you're satisfied, you can download it as an audio file by clicking the "Download" button.
+5.Listen to the generated speech, and if you're satisfied, you can download it as an audio file by clicking the "Download" button.
 
-Enjoy using the Text to Speech Converter Web Page for all your text-to-speech needs!
+6.Enjoy using the Text to Speech Converter Web Page for all your text-to-speech needs!
 
 ### Contributing
 
